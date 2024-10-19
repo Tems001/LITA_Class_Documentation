@@ -1,7 +1,8 @@
 # LITA_Class_Documentation
-### Project Title: Data Analysis using Microsoft Excel
+### Project Title:  Microsoft Excel for Data analysis
 
 ### Project Overview
 
 ### Data Sources
 
+### Tools used
